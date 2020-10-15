@@ -1,6 +1,7 @@
 ## Euler
 ### i=√(-1)
-![](https://lucid.app/invitations/accept/546e32ac-63ea-440e-9792-9dd5c0fd141f)
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/ca1d90bf-f0a7-4474-b40f-1d7a4b82dd3a" id="IoYEvn4qDpeK"></iframe></div>
 
 ## Chicharronera
 ### x=(-b±√(b^2-4ac))/2a
