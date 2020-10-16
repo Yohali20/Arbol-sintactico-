@@ -12,8 +12,8 @@
                     
 ## Angulo
 ### ang = tan^-1 [ (m2-m1)/(1+ m1 * m2) ]   
-![](https://github.com/Yohali20/Arbol-sintactico-/blob/main/Diagrama%20en%20blanco%20(1.png)   
+![](https://github.com/Yohali20/Arbol-sintactico-/blob/main/Diagrama%20en%20blanco%201.png)   
 
 ## Distancia de dos puntos
 ### d = √[(x2-x1)^2 + (y2-y1)^3]
-![](https://github.com/Yohali20/Arbol-sintactico-/blob/main/Diagrama%20en%20blanco%20(2.png)
+![](https://github.com/Yohali20/Arbol-sintactico-/blob/main/Diagrama%20en%20blanco%202.png)
